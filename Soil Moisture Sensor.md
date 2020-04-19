@@ -1,5 +1,6 @@
-#SENSORS
-##1. SOIL MOISTURE SENSOR
+# SENSORS
+
+## 1. SOIL MOISTURE SENSOR
 
 **Introduction**
 
@@ -31,6 +32,7 @@ The voltage that the sensor outputs changes accordingly to the water content in 
 soil. When the soil is:
 
 ~ Wet: the output voltage decreases
+
 ~ Dry: the output voltage increases
 
 The output can be a digital signal (D0) LOW or HIGH, depending on the water
