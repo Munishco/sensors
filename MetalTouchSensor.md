@@ -80,6 +80,6 @@ void loop ()
 
 **Step 4:**  Now upload the program on you Arduino Board by clicking on the **Upload** button or by pressing **Ctrl+U**.
 
-![image](/phupload.PNG)
+![image](/phupload.png)
 
 **Step 5:** Open **Tools->SerialMonitor** to view your results.
