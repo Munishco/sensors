@@ -57,6 +57,6 @@ The header file you just downloaded has a number of example codes that you can a
 
 **Step 5:**  Now upload the program on you Arduino Board by clicking on the **Upload** button or by pressing **Ctrl+U**.
 
-![image](/phupload.jpg)
+![image](/phupload.png)
 
 **Step 6:** Your IR remote is sending signal.
