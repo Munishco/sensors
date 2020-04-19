@@ -40,12 +40,12 @@ automatically on-off controller area.
 
 **Step 3:** Open the example code for **AnalogInOutSerial** using following photo:
 
-![image](/phprogram.PNG)
+![image](/phprogram.png)
 
 **Step 4:** Now compile the program by clicking on the **Verify** button or by pressing **Ctrl+R**.
 
 **Step 5:**  Now upload the program on you Arduino Board by clicking on the **Upload** button or by pressing **Ctrl+U**.
 
-![image](/phupload.PNG)
+![image](/phupload.png)
 
 **Step 6:** Open the **Tools->SerialMonitor** to view readings obtained by sensor.
