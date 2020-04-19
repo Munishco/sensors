@@ -1,5 +1,5 @@
 # SENSORS
-## 1. Microphone Sound Sensor
+## 1. MICROPHONE SOUND SENSOR
 **Introduction**
 
 In this guide we will learn how to use the microphone sound sensor with the Arduino. The microphone sound sensor, as the name says, detects sound. It gives a measurement of how loud a sound is. There is a wide variety of these sensors. The figure below you can see the most
