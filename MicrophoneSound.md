@@ -23,7 +23,7 @@ of the digital output pins.
 
 **Step 1:**  Connect circuit as shown in the following photo:
 
-![image](/microschem.png)
+![image](/microschem.PNG)
 
 For connection, +5V goes to Vcc, GND to GND, OUT to any digital pin on Arduino.
 
@@ -58,7 +58,7 @@ digitalWrite(ledPin, LOW);
 
 **Step 4:**  Now upload the program on you Arduino Board by clicking on the **Upload** button or by pressing **Ctrl+U**. LED must now start blinking according to sound received by sensor.
 
-![image](/microdemon.png)
+![image](/microdemon.PNG)
 
 **Step 5:** Open the **Tools->Serial Monitor** to see value of val variable.
 
