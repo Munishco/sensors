@@ -49,7 +49,7 @@ We recommend you to learn more about these header files, so that you can underst
 
 The header file you just downloaded has a number of example codes that you can access using **File->Examples->IRremote**. 
 
-![image](/IRexample.png)
+![image](/IRex.png)
 
 *Try IRrecord and you may see the difference. You shall need IR receiver to recieve its signal.*
 
@@ -57,6 +57,6 @@ The header file you just downloaded has a number of example codes that you can a
 
 **Step 5:**  Now upload the program on you Arduino Board by clicking on the **Upload** button or by pressing **Ctrl+U**.
 
-![image](/phupload.JPG)
+![image](/phupload.jpg)
 
 **Step 6:** Your IR remote is sending signal.
