@@ -5,7 +5,7 @@
 In this guide we will learn how to use the microphone sound sensor with the Arduino. The microphone sound sensor, as the name says, detects sound. It gives a measurement of how loud a sound is. There is a wide variety of these sensors. The figure below you can see the most
 common ones used with the Arduino.
 
-![image](/microphone.png)
+![image](/microphone.PNG)
 
 At the left you can see the KY-038 and at the right the LM393 microphone sound
 sensors. Both sensor modules have a built-in potentiometer to adjust the sensitivity
